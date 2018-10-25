@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540511220 source:c:\users\jm789016\desktop\digitcounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
